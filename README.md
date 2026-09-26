@@ -65,7 +65,4 @@ The project can be improved by adding:
 
 ## Conclusion
 The Rock-Paper-Scissors project demonstrates the practical use of basic Python programming concepts such as conditions, loops, variables, lists, and random selection.
--
-9. 
-10. 
 
