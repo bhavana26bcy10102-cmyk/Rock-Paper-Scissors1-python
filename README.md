@@ -36,7 +36,7 @@ The program compares both the choices and determines the winner.
 - random module
 
 ## How to Run
-1. Install Python 3.6 .
+1. Install Python 3.14.7.
 2. Open the project in VSCode.
 3. Open 'main.py' .
 4. Run the program.
