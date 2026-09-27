@@ -23,7 +23,7 @@ The objective is to develop a Python-based Rock-Paper-Scissors game that allows 
 - Keyboard
 
 #### Software Requirements
-- Python 3.6
+- Python 3.14.7
 - VS Code
 - GitHub
 
